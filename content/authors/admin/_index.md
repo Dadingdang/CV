@@ -35,7 +35,7 @@ highlight_name: true
 first_name: Xuanyu
 email: xuanyuhuang2001@gmail.com
 ---
-Huang Xuanyu is a postgraduate student of HKUST(GZ). He has been designing the mechanical part of robot for 5 years. His research interests include mechanical design, circuit design, and robotics. He has led the Alliance, which was a team participating in the RoboMaster competition.
+Huang Xuanyu is a graduate student of HKUST(GZ). He has been designing the mechanical part of robot for 5 years. His research interests include mechanical design, circuit design, and robotics. He has led the Alliance, which was a team participating in the RoboMaster competition.
 {style="text-align: justify;"}
 
 <!-- Here is a icon for CV -->

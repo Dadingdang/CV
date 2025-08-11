@@ -119,6 +119,16 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Graduate Student
+          company: HKUST(GZ) AMDT (Prof. Zhao Hang)
+          company_url: 'https://amdt.hkust-gz.edu.cn/'
+          company_logo: ''
+          location: Guangzhou, China
+          date_start: '2024-09-01'
+          date_end: ''
+          description: |2-
+              Developing mechanical tructure and motor for legged robot.
+
         - title: Undergraduate Researcher
           company: UCB Hybrid Robotics (Prof. Koushil Sreenath)
           company_url: 'https://hybrid-robotics.berkeley.edu'
@@ -147,7 +157,7 @@ sections:
           date_start: '2020-10-01'
           date_end: ''
           description: |2-
-              Lead a team of up to 50 people in participated RoboMaster Robotics Competition which required us to design, build and control 7 different robots. More than 400 universities around the world participated and 8000 young engineers competed on the stage.\\
+              Lead a team of up to 50 people in participated RoboMaster Robotics Competition which required us to design, build and control 7 different robots. More than 400 universities around the world participated and 8000 young engineers competed on the stage.
 
         - title: Director, Cameraman & Film editor
           company: NJUST Alliance Robotic Team
