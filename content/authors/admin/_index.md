@@ -22,7 +22,7 @@ social:
 education:
   courses:
     - course: M.S. in Robotics and Autonomous
-      institution: The Hong Kong University of Science and Technology (Guangzhou)
+      institution: Hong Kong University of Science and Technology (Guangzhou)
       year: 2026
     - course: B.E. in Electronic Engineering
       institution: Nanjing University of Sciencs and Technology
