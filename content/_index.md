@@ -120,6 +120,16 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Undergraduate Researcher
+          company: UCB Hybrid Robotics (Prof. Koushil Sreenath)
+          company_url: 'https://hybrid-robotics.berkeley.edu'
+          company_logo: ''
+          # location: Shenzhen, China
+          date_start: '2023-11-13'
+          date_end: '2024-07-01'
+          description: |2-
+              Developed Berkeley Humanoid robot.
+
+        - title: Undergraduate Researcher
           company: SUSTech CLEAR Lab (Prof. Wei Zhang)
           company_url: 'https://www.wzhanglab.site/'
           company_logo: ''
@@ -127,15 +137,15 @@ sections:
           date_start: '2023-07-03'
           date_end: '2023-11-13'
           description: |2-
-              Developing a contact & force sensor for quadruped robot.
+              Developed a contact & force sensor for quadruped robot.
 
-        - title: Vice-Captain & Project Management
+        - title: Vice-Captain & Project Management & Team Leader & Consultant
           company: NJUST Alliance Robotic Team
           company_url: 'https://rm-alliance.icu/'
           company_logo: ''
           location: Nanjing, China
           date_start: '2020-10-01'
-          date_end: '2024-07-03'
+          date_end: ''
           description: |2-
               Lead a team of up to 50 people in participated RoboMaster Robotics Competition which required us to design, build and control 7 different robots. More than 400 universities around the world participated and 8000 young engineers competed on the stage.\\
 
